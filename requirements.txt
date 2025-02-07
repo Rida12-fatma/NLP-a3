@@ -1,0 +1,12 @@
+datasets
+sacrebleu
+torch
+torchvision
+torchaudio
+matplotlib
+seaborn
+tqdm
+numpy
+pandas
+flask
+flask-cors
