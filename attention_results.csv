@@ -1,0 +1,4 @@
+Attention Variant,Training Loss,Training PPL,Validation Loss,Validation PPL,BLEU Score,Training Time
+multiplicative,2.109,8.236,8.509,4958.427,0.00,1.1m
+general,2.090,8.088,8.638,5644.239,0.00,1.1m
+additive,2.098,8.146,8.634,5619.336,0.00,1.1m
